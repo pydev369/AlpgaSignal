@@ -1,0 +1,8 @@
+
+
+alpha_vantage 
+pandas 
+numpy 
+requests 
+matplotlib 
+ta
