@@ -34,6 +34,19 @@ This project generates alpha signals based on OHLCV data and option chain data f
 - `notebooks/`: Contains Jupyter notebooks for demonstrations.
 - `requirements.txt`: Lists project dependencies.
 
-## Example
 
-An example Jupyter notebook demonstrating the usage and results is included in the `notebooks/` directory.
+quant_alpha_signal/
+│
+├── data/
+│   └── example_data.csv
+├── scripts/
+│   ├── data_collection.py
+│   ├── feature_engineering.py
+│   ├── signal_generation.py
+│   ├── backtesting.py
+│   └── main.py
+├── notebooks/
+│   └── alpha_signal_demo.ipynb
+├── requirements.txt
+└── README.md
+
